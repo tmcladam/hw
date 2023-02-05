@@ -23,14 +23,6 @@
             "7C2058"
         ]
     },
-    { "name": "Andrew Laverick",
-        "comp": "Club",
-        "cn": "CR",
-        "glider": "Std. Libelle",
-        "flarm": [
-            "NA"
-        ]
-    },
     { "name": "David Meredith",
         "comp": "Club",
         "cn": "ZT",
@@ -118,14 +110,6 @@
         "glider": "Mosquito",
         "flarm": [
             "D01C98"
-        ]
-    },
-    { "name": "Wayne Mackley",
-        "comp": "Club",
-        "cn": "CQX",
-        "glider": "Jantar Std 2",
-        "flarm": [
-            "NA"
         ]
     },
     { "name": "Ulrich Buelter",

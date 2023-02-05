@@ -1,0 +1,26 @@
+{
+    "comps": [
+        {
+            "id": "Open-18m",
+            "name": "Horsham Week",
+            "short": "Open-18m Class",
+            "task": "https://www.soaringspot.com/en_gb/horsham-week-2023-horsham-2023/results/open-18m",
+            "colour": "#0074D9"
+        },
+        {
+            "id": "Club",
+            "name": "Horsham Week",
+            "short": "Club Class",
+            "task": "https://www.soaringspot.com/en_gb/horsham-week-2023-horsham-2023/results/club",
+            "colour": "#BF211E"
+        }
+        {
+            "id": "15m-Std",
+            "name": "Horsham Week",
+            "short": "15m-Std",
+            "task": "https://www.soaringspot.com/en_gb/horsham-week-2023-horsham-2023/results/15m-std",
+            "colour": "#89F20B"
+        }
+    ],
+    "gliders": "https://raw.githubusercontent.com/NeilMC311/hw/main/gliders.json"
+}

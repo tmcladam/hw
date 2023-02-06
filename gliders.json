@@ -1,5 +1,6 @@
 [
-    {"name": "Adam Howell",
+    {
+        "name": "Adam Howell",
         "comp": "Club",
         "cn": "XC",
         "glider": "Kestrel 17m",
@@ -7,7 +8,8 @@
             "DDFB2F"
         ]
     },
-    {"name": "Alan Dean",
+    {
+        "name": "Alan Dean",
         "comp": "Club",
         "cn": "ER",
         "glider": "DG 505 20m WL",
@@ -15,7 +17,8 @@
             "DDB3BD"
         ]
     },
-    {"name": "Alf McMillan",
+    {
+        "name": "Alf McMillan",
         "comp": "Club",
         "cn": "AJ",
         "glider": "LS 4b",
@@ -23,7 +26,8 @@
             "7C2058"
         ]
     },
-    {"name": "David Meredith",
+    {
+        "name": "David Meredith",
         "comp": "Club",
         "cn": "ZT",
         "glider": "Jantar Std 2",
@@ -31,7 +35,26 @@
             "D01932"
         ]
     },
-    {"name": "Garry Stevenson",
+    {
+        "name": "Andrew Laverick",
+        "comp": "Club",
+        "cn": "CR",
+        "glider": "Std. Libelle",
+        "flarm": [
+            "D01CDE"
+        ]
+    },
+    {
+        "name": "Wayne Mackley",
+        "comp": "Club",
+        "cn": "CQX",
+        "glider": "Jantar Std 2",
+        "flarm": [
+            "DD8E49"
+        ]
+    },
+    {
+        "name": "Garry Stevenson",
         "comp": "Club",
         "cn": "UKK",
         "glider": "Discus b",
@@ -39,7 +62,8 @@
             "7C7A34"
         ]
     },
-    {"name": "Jack Hart",
+    {
+        "name": "Jack Hart",
         "comp": "Club",
         "cn": "JH",
         "glider": "ASW20B WL",
@@ -47,7 +71,8 @@
             "D00598"
         ]
     },
-    {"name": "Jaroslaw Mosiejewski",
+    {
+        "name": "Jaroslaw Mosiejewski",
         "comp": "Club",
         "cn": "WQF",
         "glider": "PIK-20 B WL",
@@ -55,7 +80,8 @@
             "DDB36C"
         ]
     },
-    {"name": "Leonie Furze",
+    {
+        "name": "Leonie Furze",
         "comp": "Club",
         "cn": "GZW",
         "glider": "Discus b",
@@ -63,7 +89,8 @@
             "DDC4AF"
         ]
     },
-    {"name": "Mark Simpson",
+    {
+        "name": "Mark Simpson",
         "comp": "Club",
         "cn": "SIW",
         "glider": "Silent 2 Targa",
@@ -71,7 +98,8 @@
             "DD5324"
         ]
     },
-    {"name": "Paul Dilks",
+    {
+        "name": "Paul Dilks",
         "comp": "Club",
         "cn": "KYP",
         "glider": "Astir CS 77",
@@ -79,7 +107,8 @@
             "DD8E6D"
         ]
     },
-    {"name": "Champness & Robertson",
+    {
+        "name": "Champness & Robertson",
         "comp": "Club",
         "cn": "IKM",
         "glider": "Twin Astir RG",
@@ -87,7 +116,8 @@
             "DDB542"
         ]
     },
-    {"name": "Rolf Buelter",
+    {
+        "name": "Rolf Buelter",
         "comp": "Club",
         "cn": "GWQ",
         "glider": "Janus 18.2m",
@@ -95,7 +125,8 @@
             "7C2188"
         ]
     },
-    {"name": "Steve Jinks",
+    {
+        "name": "Steve Jinks",
         "comp": "Club",
         "cn": "FQN",
         "glider": "Mosquito",
@@ -103,7 +134,8 @@
             "DD513F"
         ]
     },
-    {"name": "Terry Cubley",
+    {
+        "name": "Terry Cubley",
         "comp": "Club",
         "cn": "SG",
         "glider": "Mosquito",
@@ -111,7 +143,8 @@
             "D01C98"
         ]
     },
-    {"name": "Ulrich Buelter",
+    {
+        "name": "Ulrich Buelter",
         "comp": "Open-18m",
         "cn": "FQF",
         "glider": "LS 8T 18m",
@@ -119,7 +152,8 @@
             "7C1B95"
         ]
     },
-    {"name": "Ryan Driscoll",
+    {
+        "name": "Ryan Driscoll",
         "comp": "Open-18m",
         "cn": "ZBV",
         "glider": "Nimbus 3T 25.5m",
@@ -127,7 +161,8 @@
             "003733"
         ]
     },
-    {"name": "Arnold Niewand",
+    {
+        "name": "Arnold Niewand",
         "comp": "Open-18m",
         "cn": "WP",
         "glider": "ASG 29 E 18m",
@@ -135,7 +170,8 @@
             "DF09C6"
         ]
     },
-    {"name": "John Orton",
+    {
+        "name": "John Orton",
         "comp": "Open-18m",
         "cn": "DW",
         "glider": "ASG 29 18m",
@@ -143,7 +179,8 @@
             "D00417"
         ]
     },
-    {"name": "Thorpe & Vagg",
+    {
+        "name": "Thorpe & Vagg",
         "comp": "Open-18m",
         "cn": "XQK",
         "glider": "DG 500M 22m",
@@ -151,7 +188,8 @@
             "DDB452"
         ]
     },
-    {"name": "Craig Vinall",
+    {
+        "name": "Craig Vinall",
         "comp": "Open-18m",
         "cn": "VNL",
         "glider": "AS 33 Es 18m",
@@ -159,7 +197,8 @@
             "DF22BF"
         ]
     },
-    {"name": "Nazari & Imam",
+    {
+        "name": "Nazari & Imam",
         "comp": "Open-18m",
         "cn": "HE",
         "glider": "Duo Discus",
@@ -167,7 +206,8 @@
             "7C1F60"
         ]
     },
-    {"name": "Graham Adams",
+    {
+        "name": "Graham Adams",
         "comp": "15m-Std",
         "cn": "RG",
         "glider": "Ventus bT 15m 430kg",
@@ -175,7 +215,8 @@
             "DF239D"
         ]
     },
-    {"name": "Neil Campbell",
+    {
+        "name": "Neil Campbell",
         "comp": "15m-Std",
         "cn": "NC",
         "glider": "ASW 24 WL",
@@ -183,7 +224,8 @@
             "7C7E94"
         ]
     },
-    {"name": "Craig Dilks",
+    {
+        "name": "Craig Dilks",
         "comp": "15m-Std",
         "cn": "UKX",
         "glider": "PIK-20 B",
@@ -191,7 +233,8 @@
             "DDF91B"
         ]
     },
-    {"name": "Russell Edwards",
+    {
+        "name": "Russell Edwards",
         "comp": "15m-Std",
         "cn": "TC",
         "glider": "ASW 28",
@@ -200,7 +243,8 @@
             "D01833"
         ]
     },
-    {"name": "David Nugent",
+    {
+        "name": "David Nugent",
         "comp": "15m-Std",
         "cn": "QX",
         "glider": "LS 3",
@@ -208,7 +252,8 @@
             "D00155"
         ]
     },
-    {"name": "Tim Shirley",
+    {
+        "name": "Tim Shirley",
         "comp": "15m-Std",
         "cn": "2M",
         "glider": "ASW 28",
@@ -216,7 +261,8 @@
             "DD521A"
         ]
     },
-    {"name": "Gordon Trollip",
+    {
+        "name": "Gordon Trollip",
         "comp": "15m-Std",
         "cn": "XJS",
         "glider": "LS 6",
